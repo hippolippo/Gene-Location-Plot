@@ -1,4 +1,5 @@
 # Gene location across chromosome Chart generator
+Based on Figure 2 from [Matthews et al. 2018](https://www.nature.com/articles/s41586-018-0692-z)
 ## Example, created with example.py on unprovided gff file
 ![example of a chart generated using this tool](Example.png "Example")
 ## Usage
